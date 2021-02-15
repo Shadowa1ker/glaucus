@@ -5,6 +5,6 @@
 
 nom=zstd
 ver=1.4.8
-url=https://github.com/facebook/$nom/releases/download/v$ver/$nom-$ver.tar.zst
-sum=aae317bb5afcf7269efd0e3ddf72a785c5933493f7c321346fd3740dbf6694eb78c606656bb480a2b3c62e14fe4385ae29649ba424c7a7d389501cceb6d0845c
+url=https://github.com/facebook/$nom/releases/download/v$ver/$nom-$ver.tar.gz
+sum=0e9ddb2c70b29063aed4eda14bd99ddfefcbb316dfedadfb2d31d795161715a7676d65958f22bbec2cb6d65acb0421508f06cebdf90b8a40fa38b630ed1479e8
 lic='BSD-3-Clause GPL-2.0-only'
