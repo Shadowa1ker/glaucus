@@ -20,7 +20,7 @@ prepare() {
 
   $MKDIR $TBLD/$nom
   cd $TBLD/$nom
-exit
+
 }
 
 configure() {
